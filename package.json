@@ -4,7 +4,7 @@
   "description": "Small project with vanilla Node.js (no express).",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
